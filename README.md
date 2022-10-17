@@ -1,6 +1,6 @@
 # Getfollw
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bayfrs/Getfollw/master/2022_10_17_21_46_54~2.jpg" width="470" height="250">
+  <img src="https://raw.githubusercontent.com/bayfrs/Getfollw/master/2022_10_17_21_46_54~2.jpg" width="100%" height="100%">
 </p>
 Best Tool For Increase Instagram Follower.
 
