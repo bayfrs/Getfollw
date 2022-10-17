@@ -20,7 +20,7 @@ Via: Login
 
 `$ pkg install git`
 
-`$ git clone https://github.com/bayfrs/Getfollw`
+`$ git clone https://github.com/bayfrs/Getfollw.git`
 
 `$ cd getfollw`
 
